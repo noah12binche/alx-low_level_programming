@@ -4,7 +4,7 @@
   *
   * Print a quote from Dora Korpar to stderr
   *
-  * return: 1 (success)
+  * Return: Always 0 (success)
   */
 int main(void)
 {

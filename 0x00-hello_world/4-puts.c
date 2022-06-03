@@ -2,7 +2,7 @@
 /**
  * main - Entry point of the program
  *
- * This program prints out text
+ * This program prints out strings
  * and 
  * Return: always 0
  */

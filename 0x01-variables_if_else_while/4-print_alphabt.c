@@ -1,8 +1,8 @@
 #include <stdio.h>
 
 /**
-* man - Entry point
-* Description: whatever the program does
+* main - Entry point
+* Description: Prints alphabets except e and q
 * Return: Always 0 (Success)
 */
 int main(void)

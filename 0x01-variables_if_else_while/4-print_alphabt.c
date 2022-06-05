@@ -1,11 +1,10 @@
 #include <stdio.h>
 
 /**
-  * man - Prints letters of some alphabet
-  *
+  * man - Entry point
+  * Description: Print alphabets
   * Return: Always (Success)
   */
-
 int main(void)
 {
 	char c;

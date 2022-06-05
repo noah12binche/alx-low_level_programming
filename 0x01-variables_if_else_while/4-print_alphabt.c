@@ -1,10 +1,10 @@
 #include <stdio.h>
 
 /**
-  * man - Entry point
-  * Description: Print alphabets
-  * Return: Always (Success)
-  */
+* man - Entry point
+* Description: whatever the program does
+* Return: Always 0 (Success)
+*/
 int main(void)
 {
 	char c;

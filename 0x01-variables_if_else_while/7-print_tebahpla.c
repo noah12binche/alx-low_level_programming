@@ -1,0 +1,21 @@
+#include <stdio.h>
+
+/**
+  * main - Print alphabets i reverse
+  *
+  * Return: Always (Success)
+  */
+int main(void)
+{
+	char c;
+
+	for (c = 'z'; c >= 'a'; c--)
+	{
+		putchar(c);
+	}
+
+	putchar('\n');
+
+	return (0);
+}
+

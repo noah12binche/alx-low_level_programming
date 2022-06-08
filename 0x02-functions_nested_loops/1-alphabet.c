@@ -1,10 +1,10 @@
 #include "main.h"
 
 /**
-  * main - Print alphabet
-  *
+  * print_alphabet - entry point
   * Return: 0
   */
+
 void print_alphabet(void)
 {
 	char c = 'a';
